@@ -10,3 +10,8 @@
 ### Tuesday 4 2017
 - learned some stuffs on arrays on freecode camp
 - learned strings and it's functions
+### wednesday 6 2017
+- learned to use some javascripts functions inside of freecode camp
+- learned about object methods on javascripts inside of freecode camp
+- communicated to the whole class on what idea of web app to event
+- above all, i'm still trying to understand the basic javascripts i.e the data types in javascripts
