@@ -15,3 +15,9 @@
 - learned about object methods on javascripts inside of freecode camp
 - communicated to the whole class on what idea of web app to event
 - above all, i'm still trying to understand the basic javascripts i.e the data types in javascripts
+### thursday 7 2017
+- learned to use functions by callin it by its name given
+- learned to use the if and the return statements
+- learned cool stuffs about the javascripts scope
+- learned to use the function method to calculate square numbers
+- learned to use the .split .join method to replace characters in a string or more 
