@@ -21,3 +21,9 @@
 - learned cool stuffs about the javascripts scope.
 - learned to use the function method to calculate square numbers.
 - learned to use the .split .join method to replace characters in a string or more. 
+### Friday 8 2017
+- learned about higher order functions in javascripts.
+- learned about how to add a function to another function.
+- practiced how to add two numbers to a function.
+- learned to square an integer by calling it a function.
+- learned to convert two or more strings into a single string.
