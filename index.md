@@ -27,3 +27,8 @@
 - practiced how to add two numbers to a function.
 - learned to square an integer by calling it a function.
 - learned to convert two or more strings into a single string.
+### Monday 11 2017
+- practiced enough of the if statement on javascripts.
+- practiced the for in loop on repl.
+- learned new functions on converting a string to array.
+- Overall review of the javascript syntaxes and where it operates.
